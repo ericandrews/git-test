@@ -1,2 +1,2 @@
 hello world
-This is added text:wq.
+This is added text
